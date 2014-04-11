@@ -27,3 +27,11 @@
   border-left: 20px solid #efefef;
   float:left;
 }
+
+#nav li {
+  list-style-type: none;
+}
+
+#logo {
+  margin-left: 35px;
+}
