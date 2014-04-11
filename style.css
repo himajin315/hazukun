@@ -1,0 +1,30 @@
+.main {
+  margin: 0 auto;
+  width: 980px;
+}
+
+#top-var {
+  width: 980px;
+  height: 50px;
+}
+
+#content-r {
+  width: 680px;
+  height: 550px;
+  background-color: #c46759;
+  float: left;
+}
+
+#content-l {
+  width: 280px;
+  height: 550px;
+  background-color: #729a9a;
+  border-left: 20px solid #efefef;
+  float:left;
+}
+
+#bottom-var {
+  width: 980px;
+  height: 50px;
+  float:left;
+}
